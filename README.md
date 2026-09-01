@@ -46,11 +46,13 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0217-contains-duplicate](https://github.com/Swatadru/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Swatadru/Leetcode_DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -213,10 +215,15 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
 
 <br />
