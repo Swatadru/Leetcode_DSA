@@ -37,8 +37,17 @@ Inside each folder, you will find:
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Swatadru/Leetcode_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
