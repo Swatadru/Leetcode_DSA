@@ -89,16 +89,19 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +138,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0184-department-highest-salary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Swatadru/Leetcode_DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Swatadru/Leetcode_DSA/tree/master/0197-rising-temperature) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
 
 <br />
