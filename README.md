@@ -71,6 +71,7 @@ Inside each folder, you will find:
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Inside each folder, you will find:
 | ------- |
 | [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Inside each folder, you will find:
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Swatadru/Leetcode_DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
