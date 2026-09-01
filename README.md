@@ -52,6 +52,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0746-min-cost-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 <!---LeetCode Topics End-->
 
 <br />
