@@ -85,6 +85,7 @@ Inside each folder, you will find:
 | [0088-merge-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0120-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Inside each folder, you will find:
 | [0070-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0120-triangle) |
 ## Combinatorics
 |  |
 | ------- |
