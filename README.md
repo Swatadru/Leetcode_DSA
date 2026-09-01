@@ -125,6 +125,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -203,6 +205,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
 
 <br />
