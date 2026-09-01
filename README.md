@@ -59,6 +59,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0345-reverse-vowels-of-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Swatadru/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
 ## Counting
 |  |
 | ------- |
@@ -284,6 +287,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
 ## Simulation
 |  |
 | ------- |
