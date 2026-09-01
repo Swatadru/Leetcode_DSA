@@ -7,7 +7,8 @@
   
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
   [![Language](https://img.shields.io/badge/Language-Python%20%7C%20C++-blue?style=for-the-badge)]()
-  [![Sync](https://img.shields.io/badge/Auto%20Synced%20by-LeetHub%20v2-green?style=for-the-badge)](https://github.com/arunbhardwaj/LeetHub-2.0)
+  [![Sync](https://img.shields.io/badge/Auto%20Synced%20by-LeetHub%20v2-green?style=for-the-badge)
+  [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-50-blue?style=for-the-badge)]()](https://github.com/arunbhardwaj/LeetHub-2.0)
 </div>
 
 <hr />
