@@ -120,6 +120,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
 |  |
 | ------- |
