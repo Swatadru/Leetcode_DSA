@@ -151,6 +151,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0507-perfect-number) |
 ## Divide and Conquer
 |  |
 | ------- |
