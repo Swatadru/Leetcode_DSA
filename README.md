@@ -126,6 +126,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swatadru/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3815-design-auction-system](https://github.com/Swatadru/Leetcode_DSA/tree/master/3815-design-auction-system) |
 ## Linked List
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Swatadru/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3815-design-auction-system](https://github.com/Swatadru/Leetcode_DSA/tree/master/3815-design-auction-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -350,6 +352,11 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3815-design-auction-system](https://github.com/Swatadru/Leetcode_DSA/tree/master/3815-design-auction-system) |
+## Design
+|  |
+| ------- |
+| [3815-design-auction-system](https://github.com/Swatadru/Leetcode_DSA/tree/master/3815-design-auction-system) |
 <!---LeetCode Topics End-->
 
 <br />
