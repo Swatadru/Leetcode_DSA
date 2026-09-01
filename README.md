@@ -39,6 +39,7 @@ Inside each folder, you will find:
 | [0060-permutation-sequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Swatadru/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Swatadru/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Inside each folder, you will find:
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +145,7 @@ Inside each folder, you will find:
 | ------- |
 | [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
