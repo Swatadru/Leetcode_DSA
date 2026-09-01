@@ -61,6 +61,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
