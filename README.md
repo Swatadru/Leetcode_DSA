@@ -47,6 +47,7 @@ Inside each folder, you will find:
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Swatadru/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Inside each folder, you will find:
 | [0033-search-in-rotated-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swatadru/Leetcode_DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Swatadru/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 ## Trie
 |  |
 | ------- |
