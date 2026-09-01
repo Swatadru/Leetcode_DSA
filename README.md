@@ -53,6 +53,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0746-min-cost-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0451-sort-characters-by-frequency](https://github.com/Swatadru/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0242-valid-anagram](https://github.com/Swatadru/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Swatadru/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -302,6 +305,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
 
 <br />
