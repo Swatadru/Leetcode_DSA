@@ -76,6 +76,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0217-contains-duplicate](https://github.com/Swatadru/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Swatadru/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -235,6 +238,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
 
 <br />
