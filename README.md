@@ -39,6 +39,7 @@ Inside each folder, you will find:
 | [0013-roman-to-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,12 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
