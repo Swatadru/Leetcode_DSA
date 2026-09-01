@@ -53,6 +53,7 @@ Inside each folder, you will find:
 | [0014-longest-common-prefix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -105,4 +106,8 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
