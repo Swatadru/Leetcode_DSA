@@ -34,6 +34,7 @@ Inside each folder, you will find:
 | [0013-roman-to-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Inside each folder, you will find:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swatadru/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Swatadru/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,8 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
