@@ -114,6 +114,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Swatadru/Leetcode_DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
 
 <br />
