@@ -43,6 +43,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0198-house-robber](https://github.com/Swatadru/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Swatadru/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Swatadru/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Swatadru/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
