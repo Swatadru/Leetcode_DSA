@@ -63,6 +63,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3978-unique-middle-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3979-maximum-valid-pair-sum) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Swatadru/Leetcode_DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3984-divisible-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/3984-divisible-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
+| [3984-divisible-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/3984-divisible-game) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Swatadru/Leetcode_DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
+| [3984-divisible-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/3984-divisible-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,12 +273,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
 | [3979-maximum-valid-pair-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3979-maximum-valid-pair-sum) |
+| [3984-divisible-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/3984-divisible-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3984-divisible-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/3984-divisible-game) |
 ## Primality Test
 |  |
 | ------- |
