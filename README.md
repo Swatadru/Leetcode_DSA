@@ -30,11 +30,6 @@ Every problem has its own dedicated folder in the root directory, typically foll
 - **Efficiency**: Focus on solutions with optimal **Time & Space Complexity**.
 - **Reference**: Build a clean, accessible codebase to review before interviews.
 
-<br />
-<div align="center">
-  <i>"Consistency is what transforms average into excellence."</i> 💻✨
-</div>
-<br />
 <!---LeetCode Topics Start-->
 <div align="center">
   <h2>🧩 LeetCode Topics</h2>
@@ -302,3 +297,9 @@ Every problem has its own dedicated folder in the root directory, typically foll
   </tr>
 </table>
 <!---LeetCode Topics End-->
+
+<br />
+<div align="center">
+  <i>"Consistency is what transforms average into excellence."</i> 💻✨
+</div>
+<br />
