@@ -36,6 +36,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 
 <br />
