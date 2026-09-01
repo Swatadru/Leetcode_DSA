@@ -79,6 +79,7 @@ Inside each folder, you will find:
 | [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Swatadru/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +144,7 @@ Inside each folder, you will find:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swatadru/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Swatadru/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Inside each folder, you will find:
 | [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
