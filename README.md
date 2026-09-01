@@ -58,6 +58,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Swatadru/Leetcode_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swatadru/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -268,6 +271,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Swatadru/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -285,6 +289,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -331,6 +336,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
 
 <br />
