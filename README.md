@@ -41,6 +41,7 @@ Inside each folder, you will find:
 | [0066-plus-one](https://github.com/Swatadru/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Swatadru/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Inside each folder, you will find:
 | [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Swatadru/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -176,4 +178,8 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Swatadru/Leetcode_DSA/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
