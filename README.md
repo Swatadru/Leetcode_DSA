@@ -50,6 +50,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0198-house-robber](https://github.com/Swatadru/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
