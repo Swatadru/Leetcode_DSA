@@ -64,6 +64,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3979-maximum-valid-pair-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3979-maximum-valid-pair-sum) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Swatadru/Leetcode_DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [3984-divisible-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/3984-divisible-game) |
+| [3985-palindromic-subarray-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3985-palindromic-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
+| [3985-palindromic-subarray-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3985-palindromic-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -384,6 +386,11 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
+| [3985-palindromic-subarray-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3985-palindromic-subarray-sum) |
+## Hash Function
+|  |
+| ------- |
+| [3985-palindromic-subarray-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3985-palindromic-subarray-sum) |
 <!---LeetCode Topics End-->
 
 <br />
