@@ -66,6 +66,7 @@ Inside each folder, you will find:
 | [0041-first-missing-positive](https://github.com/Swatadru/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -137,4 +138,12 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
