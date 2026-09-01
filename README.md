@@ -45,6 +45,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Swatadru/Leetcode_DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
