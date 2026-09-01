@@ -49,6 +49,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,18 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
 
 <br />
