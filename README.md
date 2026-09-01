@@ -1,29 +1,40 @@
-# 🚀 LeetCode DSA Solutions
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" width="200" alt="LeetCode Logo"/>
+  <h1>🌟 LeetCode DSA Solutions 🌟</h1>
+  <p>
+    <b>A personal archive of my journey through Data Structures and Algorithms!</b>
+  </p>
+  
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+  [![Language](https://img.shields.io/badge/Language-Python%20%7C%20C++-blue?style=for-the-badge)]()
+  [![Sync](https://img.shields.io/badge/Auto%20Synced%20by-LeetHub%20v2-green?style=for-the-badge)](https://github.com/arunbhardwaj/LeetHub-2.0)
+</div>
 
-Welcome to my **LeetCode Data Structures and Algorithms** repository! This repository serves as a personal collection of my solutions to various algorithmic and data structure challenges on LeetCode. It tracks my continuous learning, progress, and problem-solving journey.
+<hr />
 
-## ⚙️ Automated Syncing
+## 📖 About This Repository
+This repository serves as a meticulously organized collection of my solutions to algorithmic challenges on [LeetCode](https://leetcode.com/). Tracking this progress helps reinforce my understanding of core DSA concepts and prepares me for technical problem-solving.
 
-The solutions in this repository are **automatically synced** directly from the LeetCode platform using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). 
+## 🤖 Automated Syncing via LeetHub
+All solutions here are **100% automatically synced** right after a successful submission on LeetCode. 
+This seamless integration is powered by the [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) Chrome extension. 
+*Zero manual commits, just pure coding!*
 
-Whenever I solve a problem and achieve an accepted submission on LeetCode, LeetHub automatically pushes the solution code, along with the problem's official description, directly to this repository. This ensures my progress is always up-to-date with zero manual overhead!
+## 📂 How It's Organized
+Every problem has its own dedicated folder in the root directory, typically following the `[ID]-[slug]` format:
+- 📜 **`README.md`**: Contains the full problem statement, constraints, and examples.
+- 💻 **`Solution File`**: The accepted code (e.g., `.py`, `.cpp`, `.java`).
 
-## 📂 Repository Structure
+## 🎯 My Goals
+- **Consistency**: Practice daily to master essential patterns (Two Pointers, DP, Graphs, etc.).
+- **Efficiency**: Focus on solutions with optimal **Time & Space Complexity**.
+- **Reference**: Build a clean, accessible codebase to review before interviews.
 
-Each problem is organized into its own dedicated folder at the root level, typically named following the `[problem-number]-[problem-slug]` convention (e.g., `0001-two-sum/`). 
-
-Inside each folder, you will find:
-- **`README.md`**: The complete problem statement, including examples, constraints, and follow-up questions provided by LeetCode.
-- **Solution File**: The accepted source code used to solve the problem.
-
-## 🛠️ Goals
-- Strengthen fundamental understanding of Data Structures and Algorithms.
-- Consistently practice problem-solving patterns (e.g., Two Pointers, Sliding Window, Dynamic Programming, Graphs).
-- Maintain a clean and accessible archive of my best solutions for future reference.
-
----
-*Keep coding and keep learning!* 💻✨
-
+<br />
+<div align="center">
+  <i>"Consistency is what transforms average into excellence."</i> 💻✨
+</div>
+<br />
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
