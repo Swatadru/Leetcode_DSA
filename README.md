@@ -62,6 +62,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
 | [3978-unique-middle-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/3978-unique-middle-element) |
 | [3979-maximum-valid-pair-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3979-maximum-valid-pair-sum) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Swatadru/Leetcode_DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Swatadru/Leetcode_DSA/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Divide and Conquer
 |  |
 | ------- |
