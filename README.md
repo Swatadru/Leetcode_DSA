@@ -66,12 +66,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Swatadru/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
+| [0344-reverse-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
 | ------- |
