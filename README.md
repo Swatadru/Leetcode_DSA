@@ -76,6 +76,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swatadru/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3813-vowel-consonant-score](https://github.com/Swatadru/Leetcode_DSA/tree/master/3813-vowel-consonant-score) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swatadru/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3815-design-auction-system](https://github.com/Swatadru/Leetcode_DSA/tree/master/3815-design-auction-system) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +153,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Tree
 |  |
 | ------- |
@@ -307,6 +311,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Queue
 |  |
 | ------- |
