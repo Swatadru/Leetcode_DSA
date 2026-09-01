@@ -75,6 +75,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0344-reverse-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0206-reverse-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
