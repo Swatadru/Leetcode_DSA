@@ -54,6 +54,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0507-perfect-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -273,6 +276,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -286,6 +290,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bucket Sort
 |  |
 | ------- |
