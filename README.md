@@ -68,6 +68,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Swatadru/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
 | ------- |
