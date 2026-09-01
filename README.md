@@ -74,6 +74,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
+| [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3813-vowel-consonant-score](https://github.com/Swatadru/Leetcode_DSA/tree/master/3813-vowel-consonant-score) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
+| [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,6 +371,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [3815-design-auction-system](https://github.com/Swatadru/Leetcode_DSA/tree/master/3815-design-auction-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
 <!---LeetCode Topics End-->
 
 <br />
