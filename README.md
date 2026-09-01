@@ -216,18 +216,25 @@ Inside each folder, you will find:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
