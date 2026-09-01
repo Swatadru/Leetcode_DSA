@@ -74,6 +74,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Swatadru/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -142,6 +143,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Swatadru/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
 
 <br />
