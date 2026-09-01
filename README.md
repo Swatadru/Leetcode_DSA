@@ -62,6 +62,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
