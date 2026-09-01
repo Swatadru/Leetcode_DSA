@@ -96,6 +96,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0557-reverse-words-in-a-string-iii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
+| [3983-subsequence-after-one-replacement](https://github.com/Swatadru/Leetcode_DSA/tree/master/3983-subsequence-after-one-replacement) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 | [3981-count-distinct-ways-to-form-target-from-two-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/3981-count-distinct-ways-to-form-target-from-two-strings) |
+| [3983-subsequence-after-one-replacement](https://github.com/Swatadru/Leetcode_DSA/tree/master/3983-subsequence-after-one-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
