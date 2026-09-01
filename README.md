@@ -73,12 +73,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Swatadru/Leetcode_DSA/tree/master/0316-remove-duplicate-letters) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
+| [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3813-vowel-consonant-score](https://github.com/Swatadru/Leetcode_DSA/tree/master/3813-vowel-consonant-score) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
+| [3980-minimum-operations-to-transform-binary-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/3980-minimum-operations-to-transform-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
