@@ -37,6 +37,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
@@ -90,6 +92,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
 
 <br />
