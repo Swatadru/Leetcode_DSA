@@ -101,6 +101,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Swatadru/Leetcode_DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Swatadru/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3813-vowel-consonant-score](https://github.com/Swatadru/Leetcode_DSA/tree/master/3813-vowel-consonant-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3813-vowel-consonant-score](https://github.com/Swatadru/Leetcode_DSA/tree/master/3813-vowel-consonant-score) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
