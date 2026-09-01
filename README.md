@@ -67,6 +67,7 @@ Inside each folder, you will find:
 | [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -130,10 +131,12 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Swatadru/Leetcode_DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
