@@ -215,12 +215,19 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
