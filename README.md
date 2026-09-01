@@ -61,6 +61,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
 | [3978-unique-middle-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/3978-unique-middle-element) |
+| [3979-maximum-valid-pair-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3979-maximum-valid-pair-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
+| [3979-maximum-valid-pair-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
 |  |
 | ------- |
