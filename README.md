@@ -48,6 +48,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0283-move-zeroes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +253,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -273,6 +275,10 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
 
 <br />
