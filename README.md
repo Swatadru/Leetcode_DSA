@@ -60,6 +60,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3814-maximum-capacity-within-budget](https://github.com/Swatadru/Leetcode_DSA/tree/master/3814-maximum-capacity-within-budget) |
+| [3978-unique-middle-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Swatadru/Leetcode_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [3978-unique-middle-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
