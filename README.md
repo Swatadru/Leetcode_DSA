@@ -30,4 +30,8 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Swatadru/Leetcode_DSA/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
