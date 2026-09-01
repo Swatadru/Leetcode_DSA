@@ -44,6 +44,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
 
 <br />
