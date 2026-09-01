@@ -42,6 +42,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Swatadru/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,10 +117,12 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -171,6 +174,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Swatadru/Leetcode_DSA/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
 
 <br />
