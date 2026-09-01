@@ -33,6 +33,7 @@ Inside each folder, you will find:
 | [0009-palindrome-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Swatadru/Leetcode_DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Inside each folder, you will find:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +118,8 @@ Inside each folder, you will find:
 | [0033-search-in-rotated-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swatadru/Leetcode_DSA/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
