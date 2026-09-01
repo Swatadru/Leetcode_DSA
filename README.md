@@ -59,6 +59,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Swatadru/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0144-binary-tree-preorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0203-remove-linked-list-elements](https://github.com/Swatadru/Leetcode_DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Swatadru/Leetcode_DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
 | ------- |
