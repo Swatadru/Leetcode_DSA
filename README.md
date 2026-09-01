@@ -118,6 +118,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Swatadru/Leetcode_DSA/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Swatadru/Leetcode_DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
 
 <br />
