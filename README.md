@@ -38,6 +38,7 @@ Inside each folder, you will find:
 | [0050-powx-n](https://github.com/Swatadru/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Swatadru/Leetcode_DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Swatadru/Leetcode_DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Swatadru/Leetcode_DSA/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Inside each folder, you will find:
 | [0053-maximum-subarray](https://github.com/Swatadru/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Swatadru/Leetcode_DSA/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
