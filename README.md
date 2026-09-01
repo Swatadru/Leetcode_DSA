@@ -80,6 +80,7 @@ Inside each folder, you will find:
 | [0063-unique-paths-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Swatadru/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Swatadru/Leetcode_DSA/tree/master/0075-sort-colors) |
 ## Trie
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Inside each folder, you will find:
 | [0027-remove-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Swatadru/Leetcode_DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Swatadru/Leetcode_DSA/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Swatadru/Leetcode_DSA/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,4 +188,12 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Swatadru/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Swatadru/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Swatadru/Leetcode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
