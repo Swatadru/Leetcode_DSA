@@ -113,6 +113,7 @@ Inside each folder, you will find:
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swatadru/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -210,4 +211,16 @@ Inside each folder, you will find:
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Swatadru/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Swatadru/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
