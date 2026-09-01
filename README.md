@@ -127,6 +127,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Swatadru/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Swatadru/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Swatadru/Leetcode_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Swatadru/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Swatadru/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Swatadru/Leetcode_DSA/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Swatadru/Leetcode_DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Recursion
 |  |
 | ------- |
