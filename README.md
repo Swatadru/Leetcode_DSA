@@ -47,6 +47,7 @@ Inside each folder, you will find:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Swatadru/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Swatadru/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Swatadru/Leetcode_DSA/tree/master/0058-length-of-last-word) |
 ## Hash Table
 |  |
 | ------- |
