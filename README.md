@@ -55,6 +55,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Swatadru/Leetcode_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Swatadru/Leetcode_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,6 +309,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0566-reshape-the-matrix](https://github.com/Swatadru/Leetcode_DSA/tree/master/0566-reshape-the-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Swatadru/Leetcode_DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Swatadru/Leetcode_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sliding Window
 |  |
 | ------- |
