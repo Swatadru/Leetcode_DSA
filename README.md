@@ -39,6 +39,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0136-single-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0125-valid-palindrome](https://github.com/Swatadru/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Swatadru/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
