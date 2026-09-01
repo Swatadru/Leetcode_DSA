@@ -40,10 +40,12 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0150-evaluate-reverse-polish-notation](https://github.com/Swatadru/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Swatadru/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Swatadru/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Swatadru/Leetcode_DSA/tree/master/0198-house-robber) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Swatadru/Leetcode_DSA/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
