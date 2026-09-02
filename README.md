@@ -62,4 +62,5 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Swatadru/Leetcode_DSA/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/Swatadru/Leetcode_DSA/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
