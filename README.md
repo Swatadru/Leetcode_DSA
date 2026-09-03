@@ -42,6 +42,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Concurrency
@@ -69,4 +71,12 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [1117-building-h2o](https://github.com/Swatadru/Leetcode_DSA/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/Swatadru/Leetcode_DSA/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/Swatadru/Leetcode_DSA/tree/master/1226-the-dining-philosophers) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
