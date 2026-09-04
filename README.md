@@ -39,6 +39,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
