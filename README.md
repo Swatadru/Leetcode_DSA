@@ -53,6 +53,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -87,4 +88,16 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
