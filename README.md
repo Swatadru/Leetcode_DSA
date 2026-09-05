@@ -40,6 +40,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,5 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
