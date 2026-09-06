@@ -63,6 +63,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -109,4 +110,12 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Swatadru/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
