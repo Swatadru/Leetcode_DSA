@@ -96,14 +96,17 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Swatadru/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Swatadru/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Swatadru/Leetcode_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |
