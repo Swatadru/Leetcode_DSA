@@ -37,6 +37,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Swatadru/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -46,6 +47,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -127,4 +129,9 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
