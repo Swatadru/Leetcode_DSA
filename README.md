@@ -53,6 +53,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0190-reverse-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -144,4 +145,8 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
