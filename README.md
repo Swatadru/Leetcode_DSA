@@ -55,6 +55,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -126,6 +127,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0072-edit-distance](https://github.com/Swatadru/Leetcode_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Swatadru/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
+| [0338-counting-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0940-distinct-subsequences-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
