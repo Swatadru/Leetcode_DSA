@@ -37,6 +37,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Swatadru/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
+| [0835-image-overlap](https://github.com/Swatadru/Leetcode_DSA/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -63,6 +64,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Swatadru/Leetcode_DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
