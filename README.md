@@ -91,6 +91,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0115-distinct-subsequences](https://github.com/Swatadru/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0115-distinct-subsequences](https://github.com/Swatadru/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0940-distinct-subsequences-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -155,4 +158,8 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Swatadru/Leetcode_DSA/tree/master/0190-reverse-bits) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
