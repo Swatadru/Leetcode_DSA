@@ -40,6 +40,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0835-image-overlap](https://github.com/Swatadru/Leetcode_DSA/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -74,6 +75,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0171-excel-sheet-column-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0263-ugly-number) |
+| [3524-find-x-value-of-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Swatadru/Leetcode_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -133,6 +135,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0940-distinct-subsequences-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Linked List
 |  |
 | ------- |
