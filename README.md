@@ -38,6 +38,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Swatadru/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/Swatadru/Leetcode_DSA/tree/master/0835-image-overlap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -50,6 +51,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -101,6 +103,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
@@ -152,6 +155,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -165,4 +169,8 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
