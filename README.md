@@ -52,6 +52,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+| [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -65,6 +66,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Swatadru/Leetcode_DSA/tree/master/0101-symmetric-tree) |
+| [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swatadru/Leetcode_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -130,6 +132,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0115-distinct-subsequences](https://github.com/Swatadru/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -162,6 +165,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swatadru/Leetcode_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -175,4 +179,12 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swatadru/Leetcode_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
