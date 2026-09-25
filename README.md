@@ -79,6 +79,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0002-add-two-numbers](https://github.com/Swatadru/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Swatadru/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Swatadru/Leetcode_DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Swatadru/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -187,4 +188,8 @@ Every problem has its own dedicated folder in the root directory, typically foll
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Swatadru/Leetcode_DSA/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
