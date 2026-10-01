@@ -131,6 +131,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Swatadru/Leetcode_DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Swatadru/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0171-excel-sheet-column-number) |
@@ -190,9 +191,14 @@ Every problem has its own dedicated folder in the root directory, typically foll
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 ## Geometry
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Swatadru/Leetcode_DSA/tree/master/0223-rectangle-area) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
