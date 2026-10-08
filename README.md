@@ -137,6 +137,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | [0171-excel-sheet-column-number](https://github.com/Swatadru/Leetcode_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0856-score-of-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Swatadru/Leetcode_DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swatadru/Leetcode_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -194,6 +195,7 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Swatadru/Leetcode_DSA/tree/master/1096-brace-expansion-ii) |
 ## Geometry
 |  |
@@ -204,4 +206,5 @@ Every problem has its own dedicated folder in the root directory, typically foll
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Swatadru/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
